@@ -76,3 +76,4 @@ Vue                      9 repos             ██░░░░░░░░░�
 🔗 **Connect with me:**
 
 <a href="https://linkedin.com/in/bdviett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bdviet" height="30" width="40" /></a>
+<a href="https://leetcode.com/bdviet/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="bdviet" height="30" width="40" /></a>
