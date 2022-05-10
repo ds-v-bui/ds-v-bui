@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **vue, laravel, spring**
 
-- 📫 How to reach me **ducviet.dev@gmmail.com**
+- 📫 How to reach me **ducviet.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
