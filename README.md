@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **VueJs**
-
 - 💬 Ask me about **vue, laravel, spring**
 
 - 📫 How to reach me **ducviet.dev@gmail.com**
