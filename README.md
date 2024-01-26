@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-v-bui&label=Profile%20views&color=0e75b6&style=flat" alt="ds-v-bui" /> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **NodeJS (NestJS) - TypeScript**
 
-- 💬 Ask me about **vue, laravel, spring**
+- 💬 Ask me about **vue, laravel, nestJs**
 
 - 📫 How to reach me **ducviet.dev@gmail.com**
 
